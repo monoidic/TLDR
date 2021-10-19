@@ -324,21 +324,6 @@ def main():
 
             fd.write(f'* `{zone_name}` via `{nameserver}`: [Click here to view zone data.](archives/{zone_dir_name}/{nameserver}zone)\n')
 
-    # Add all new zone files
-    print( "Git adding...")
-    proc = subprocess.Popen(['git', 'add', '.'])
-    proc.wait()
-
-    # Commit them
-    print( "Git committing...")
-    proc = subprocess.Popen(['git', 'commit', '-m "Updating zone information"'])
-    proc.wait()
-
-    # Commit them
-    print( "Git pushing...")
-    proc = subprocess.Popen(['git', 'push'])
-    proc.wait()
-
 
 if __name__ == '__main__':
     main()
