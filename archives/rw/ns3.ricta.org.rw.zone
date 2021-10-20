@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021102002 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1634695225"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021102004 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1634702423"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -1129,8 +1129,6 @@ baginnovation.rw.	1800	IN	NS	ns2.linode.com.
 baginnovation.rw.	1800	IN	NS	ns3.linode.com.
 baginnovation.rw.	1800	IN	NS	ns4.linode.com.
 baginnovation.rw.	1800	IN	NS	ns5.linode.com.
-bagirubwira.rw.		1800	IN	NS	ns541.webhosting.co.rw.
-bagirubwira.rw.		1800	IN	NS	ns542.webhosting.co.rw.
 bahagefoods.rw.		1800	IN	NS	ns3.afriregister.com.
 bahagefoods.rw.		1800	IN	NS	ns5.afriregister.com.
 bahagefoods.rw.		1800	IN	NS	ns6.afriregister.com.
@@ -6956,8 +6954,6 @@ kigalilatestfashion.rw.	86400	IN	NS	ns1.ebdhosting.com.
 kigalilatestfashion.rw.	86400	IN	NS	ns2.ebdhosting.com.
 kigalilatestfashion.rw.	86400	IN	NS	ns3.ebdhosting.com.
 kigalilatestfashion.rw.	86400	IN	NS	ns4.ebdhosting.com.
-kigalilive.rw.		86400	IN	NS	ns3.ityazo.com.
-kigalilive.rw.		86400	IN	NS	ns4.ityazo.com.
 kigalimaxresto.rw.	86400	IN	NS	ns1.kitech.rw.
 kigalimaxresto.rw.	86400	IN	NS	ns2.kitech.rw.
 kigalimemorial.rw.	86400	IN	NS	ns-445.awsdns-55.com.
@@ -7522,8 +7518,6 @@ lidl.rw.		86400	IN	NS	ns1.eurodns.com.
 lidl.rw.		86400	IN	NS	ns2.eurodns.com.
 lidl.rw.		86400	IN	NS	ns3.eurodns.com.
 lidl.rw.		86400	IN	NS	ns4.eurodns.com.
-life.rw.		86400	IN	NS	ns8377.hostgator.com.
-life.rw.		86400	IN	NS	ns8378.hostgator.com.
 lifecare.rw.		86400	IN	NS	ns1.sawasawa.com.
 lifecare.rw.		86400	IN	NS	ns10.sawasawa.net.
 lifeelevation.rw.	86400	IN	NS	ns5.afriregister.com.
@@ -11885,11 +11879,6 @@ tec-global.rw.		86400	IN	NS	ns1.supercp.com.
 tec-global.rw.		86400	IN	NS	ns2.supercp.com.
 tec-global.rw.		86400	IN	NS	ns3.supercp.com.
 tec-global.rw.		86400	IN	NS	ns4.supercp.com.
-tech.rw.		86400	IN	NS	ns1.netim.net.
-tech.rw.		86400	IN	NS	ns2.netim.net.
-tech.rw.		86400	IN	NS	ns3.netim.net.
-tech-solutions.rw.	86400	IN	NS	ns5.afriregister.co.ke.
-tech-solutions.rw.	86400	IN	NS	ns6.afriregister.co.ke.
 tech2go.rw.		86400	IN	NS	ns1.constt.cloud.
 tech2go.rw.		86400	IN	NS	ns2.constt.cloud.
 techavenue137.rw.	86400	IN	NS	ns1.digitalocean.com.
