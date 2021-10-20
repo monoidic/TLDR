@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021102010 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1634724021"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021102011 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1634727619"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -2929,6 +2929,8 @@ destinationsrwanda.rw.	1800	IN	NS	ns2.contabo.net.
 destinationsrwanda.rw.	1800	IN	NS	ns3.contabo.net.
 destinativelogistics.rw. 1800	IN	NS	dns1.namecheaphosting.com.
 destinativelogistics.rw. 1800	IN	NS	dns2.namecheaphosting.com.
+destinycraftideas.rw.	1800	IN	NS	ns1.megabithosting.com.
+destinycraftideas.rw.	1800	IN	NS	ns2.megabithosting.com.
 deutsche-bank.rw.	1800	IN	NS	auth04.ns.de.uu.net.
 deutsche-bank.rw.	1800	IN	NS	auth54.ns.de.uu.net.
 deutschebank.rw.	1800	IN	NS	auth04.ns.de.uu.net.
@@ -4150,6 +4152,8 @@ floraison.rw.		1800	IN	NS	ns5.afriregister.com.
 floraison.rw.		1800	IN	NS	ns6.afriregister.com.
 florinebar.rw.		1800	IN	NS	ns1.kitech.rw.
 florinebar.rw.		1800	IN	NS	ns2.kitech.rw.
+flowercement.rw.	1800	IN	NS	ns1.megabithosting.com.
+flowercement.rw.	1800	IN	NS	ns2.megabithosting.com.
 flowerchild.rw.		1800	IN	NS	ns14.wixdns.net.
 flowerchild.rw.		1800	IN	NS	ns15.wixdns.net.
 flowers.rw.		1800	IN	NS	ns1.kaneza.com.
@@ -6888,6 +6892,8 @@ kfh.rw.			86400	IN	NS	ns2.aos.rw.
 kfh.rw.			86400	IN	NS	ns3.aos.rw.
 kflowers.rw.		86400	IN	NS	ns1.kitech.rw.
 kflowers.rw.		86400	IN	NS	ns2.kitech.rw.
+kgcraftcafe.rw.		86400	IN	NS	ns1.megabithosting.com.
+kgcraftcafe.rw.		86400	IN	NS	ns2megabithosting.com.
 kghs.rw.		86400	IN	NS	dns1.namecheaphosting.com.
 kghs.rw.		86400	IN	NS	dns2.namecheaphosting.com.
 kgl.rw.			86400	IN	NS	ns1.bh-49.webhostbox.net.
@@ -8708,6 +8714,8 @@ nanoinvestment.rw.	86400	IN	NS	dns3.p08.nsone.net.
 nanoinvestment.rw.	86400	IN	NS	dns4.p08.nsone.net.
 nap.rw.			86400	IN	NS	ns1.domain.com.
 nap.rw.			86400	IN	NS	ns2.domain.com.
+naqiinteriordesigne.rw.	86400	IN	NS	ns1.megabithosting.com.
+naqiinteriordesigne.rw.	86400	IN	NS	ns2.megabithosting.com.
 nar.rw.			86400	IN	NS	ns1.bdsrwanda.rw.
 nar.rw.			86400	IN	NS	ns2.bdsrwanda.rw.
 naradaelectronics.rw.	86400	IN	NS	dns1.supremepanel.com.
@@ -8928,6 +8936,8 @@ nicolebridalshop.rw.	86400	IN	NS	ns1.ebdhosting.com.
 nicolebridalshop.rw.	86400	IN	NS	ns2.ebdhosting.com.
 nicolebridalshop.rw.	86400	IN	NS	ns3.ebdhosting.com.
 nicolebridalshop.rw.	86400	IN	NS	ns4.ebdhosting.com.
+nicolemdecoration.rw.	86400	IN	NS	ns1.megabithosting.com.
+nicolemdecoration.rw.	86400	IN	NS	ns2.megabithosting.com.
 nigute.rw.		86400	IN	NS	ns69.domaincontrol.com.
 nigute.rw.		86400	IN	NS	ns70.domaincontrol.com.
 nikao.rw.		86400	IN	NS	ns1.digitalocean.com.
@@ -10479,6 +10489,8 @@ romalo.rw.		86400	IN	NS	ns5.afriregister.com.
 romalo.rw.		86400	IN	NS	ns6.afriregister.com.
 romanticgarden.rw.	86400	IN	NS	ns1.kitech.rw.
 romanticgarden.rw.	86400	IN	NS	ns2.kitech.rw.
+romeochief.rw.		86400	IN	NS	ns1.megabithosting.com.
+romeochief.rw.		86400	IN	NS	ns2.megabithosting.com.
 rongingroup.rw.		86400	IN	NS	ns1.mojahost.com.
 rongingroup.rw.		86400	IN	NS	ns2.mojahost.com.
 ronkos.rw.		86400	IN	NS	ns5.afriregister.com.
@@ -11302,6 +11314,8 @@ sky.rw.			86400	IN	NS	ns1.bluehost.com.
 sky.rw.			86400	IN	NS	ns2.bluehost.com.
 skylimitconstruction.rw. 86400	IN	NS	ns1.mojahost.com.
 skylimitconstruction.rw. 86400	IN	NS	ns2.mojahost.com.
+skylitedecoration.rw.	86400	IN	NS	ns1.megabithosting.com.
+skylitedecoration.rw.	86400	IN	NS	ns2.megabithosting.com.
 skyncosmetics.rw.	86400	IN	NS	ns1.megabithosting.com.
 skyncosmetics.rw.	86400	IN	NS	ns2.megabithosting.com.
 skyscanner.rw.		86400	IN	NS	ns1.netnames.net.
@@ -11902,6 +11916,8 @@ tantalum.rw.		86400	IN	NS	ns542.webhosting.co.rw.
 tantine.rw.		86400	IN	NS	ns1.digitalocean.com.
 tantine.rw.		86400	IN	NS	ns2.digitalocean.com.
 tantine.rw.		86400	IN	NS	ns3.digitalocean.com.
+tantineweddingdecoration.rw. 86400 IN	NS	ns1.megabithosting.com.
+tantineweddingdecoration.rw. 86400 IN	NS	ns2.megabithosting.com.
 tapandgo.rw.		86400	IN	NS	ns1.adicthost.net.
 tapandgo.rw.		86400	IN	NS	ns2.adicthost.net.
 tapandgoticketing.rw.	86400	IN	NS	ns1.he.net.
@@ -12664,6 +12680,8 @@ umucyofamilly.rw.	86400	IN	NS	ns1.mojahost.com.
 umucyofamilly.rw.	86400	IN	NS	ns2.mojahost.com.
 umucyoschool.rw.	86400	IN	NS	ns1.atspace.me.
 umucyoschool.rw.	86400	IN	NS	ns2.atspace.me.
+umucyostudio.rw.	86400	IN	NS	ns1.megabithosting.com.
+umucyostudio.rw.	86400	IN	NS	ns2.megabithosting.com.
 umuganda.rw.		86400	IN	NS	ns1.sawasawa.com.
 umuganda.rw.		86400	IN	NS	ns2.sawasawa.com.
 umuhesha.rw.		86400	IN	NS	ns1.digitalocean.com.
@@ -12697,6 +12715,8 @@ umurabyo.rw.		86400	IN	NS	ns3.stackdns.com.
 umurabyo.rw.		86400	IN	NS	ns4.stackdns.com.
 umurage.rw.		86400	IN	NS	ns1.willcare.net.au.
 umurage.rw.		86400	IN	NS	ns2.willcare.net.au.
+umuragecraft.rw.	86400	IN	NS	ns1.megabithosting.com.
+umuragecraft.rw.	86400	IN	NS	ns2.megabithosting.com.
 umuragemedia.rw.	86400	IN	NS	ns1.blazecloudserver.xyz.
 umuragemedia.rw.	86400	IN	NS	ns2.blazecloudserver.xyz.
 umuranga.rw.		86400	IN	NS	burt.ns.cloudflare.com.

@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1634709901 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1634724301 1800 600 604800 1800
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
 mw.			18000	IN	NS	d.ext.nic.cz.
@@ -1205,6 +1205,8 @@ entrefina.mw.		18000	IN	NS	chi-ns1.websitehostserver.net.
 entrefina.mw.		18000	IN	NS	chi-ns2.websitehostserver.net.
 epson.mw.		18000	IN	NS	ns1.markmonitor.com.
 epson.mw.		18000	IN	NS	ns3.markmonitor.com.
+equityrebrokers.mw.	18000	IN	NS	ns193.kenyawebexperts.com.
+equityrebrokers.mw.	18000	IN	NS	ns194.kenyawebexperts.com.
 er.mw.			18000	IN	NS	ishaan.ns.cloudflare.com.
 er.mw.			18000	IN	NS	kara.ns.cloudflare.com.
 ericsson.mw.		18000	IN	NS	e3dns.ericy.com.
