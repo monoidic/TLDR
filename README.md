@@ -16,3 +16,5 @@ However, when it comes to TLDs and the root nameservers, zone transfers are show
 
 ## Credit
 This project was inspired by Peter Bowen's work which can be found here: https://github.com/pzb/TLDs
+
+This fork is continued [here](https://github.com/monoidic/TLDR2).
