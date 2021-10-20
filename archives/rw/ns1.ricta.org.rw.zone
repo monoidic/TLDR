@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021102011 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1634727619"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021102014 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1634738425"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -246,6 +246,8 @@ aemugrober.rw.		1800	IN	NS	ns2.kitech.rw.
 aeroservices.rw.	1800	IN	NS	ns1.rdb.rw.
 aeroservices.rw.	1800	IN	NS	ns2.aos.rw.
 aeroservices.rw.	1800	IN	NS	ns3.aos.rw.
+afcac33plenary.rw.	1800	IN	NS	ns4.aos.rw.
+afcac33plenary.rw.	1800	IN	NS	ns5.aos.rw.
 affinitymedia.rw.	1800	IN	NS	ns8.wixdns.net.
 affinitymedia.rw.	1800	IN	NS	ns9.wixdns.net.
 aflink.rw.		1800	IN	NS	ns1.esicia.rw.
@@ -893,6 +895,8 @@ arthub.rw.		1800	IN	NS	ns5.afriregister.com.
 arthub.rw.		1800	IN	NS	ns6.afriregister.com.
 arthurnation.rw.	1800	IN	NS	ns1.md-74.webhostbox.net.
 arthurnation.rw.	1800	IN	NS	ns2.md-74.webhostbox.net.
+artistfelix.rw.		1800	IN	NS	ns1.megabithosting.com.
+artistfelix.rw.		1800	IN	NS	ns2.megabithosting.com.
 artjournal.rw.		1800	IN	NS	ns5.afriregister.co.ke.
 artjournal.rw.		1800	IN	NS	ns6.afriregister.co.ke.
 artrwanda.rw.		1800	IN	NS	mona.ns.cloudflare.com.
@@ -1102,6 +1106,8 @@ ayoodelivery.rw.	1800	IN	NS	ns3.stackdns.com.
 ayoodelivery.rw.	1800	IN	NS	ns4.stackdns.com.
 azhandyman.rw.		1800	IN	NS	ns1.kitech.rw.
 azhandyman.rw.		1800	IN	NS	ns2.kitech.rw.
+azizilifestudio.rw.	1800	IN	NS	ns1.megabithosting.com.
+azizilifestudio.rw.	1800	IN	NS	ns2.megabithosting.com.
 b-connectafrica.rw.	1800	IN	NS	ns1.stackdns.com.
 b-connectafrica.rw.	1800	IN	NS	ns2.stackdns.com.
 b-connectafrica.rw.	1800	IN	NS	ns3.stackdns.com.
@@ -1450,6 +1456,8 @@ bhinfotech.rw.		1800	IN	NS	ns5.aos.rw.
 bhk-partners.rw.	1800	IN	NS	ns3.aos.rw.
 bhk-partners.rw.	1800	IN	NS	ns4.aos.rw.
 bhk-partners.rw.	1800	IN	NS	ns5.aos.rw.
+bhstudio.rw.		1800	IN	NS	ns1.megabithosting.com.
+bhstudio.rw.		1800	IN	NS	ns2.megabithosting.com.
 bict.rw.		1800	IN	NS	ns1.hackflix.net.
 bict.rw.		1800	IN	NS	ns2.hackflix.net.
 bict.rw.		1800	IN	NS	ns3.hackflix.net.
@@ -1642,6 +1650,8 @@ boncoin.rw.		1800	IN	NS	ns1.101domain.com.
 boncoin.rw.		1800	IN	NS	ns2.101domain.com.
 bond.rw.		1800	IN	NS	ns1.sharkhostingcloud31.co.uk.
 bond.rw.		1800	IN	NS	ns2.sharkhostingcloud31.co.uk.
+bonezaartstudio.rw.	1800	IN	NS	ns1.megabithosting.com.
+bonezaartstudio.rw.	1800	IN	NS	ns2.megabithosting.com.
 bongobongo.rw.		1800	IN	NS	ns1.instradns.com.
 bongobongo.rw.		1800	IN	NS	ns2.instradns.com.
 bongobongo.rw.		1800	IN	NS	ns3.instradns.com.
@@ -1737,6 +1747,10 @@ bravobakery.rw.		1800	IN	NS	ns3.ebdhosting.com.
 bravobakery.rw.		1800	IN	NS	ns4.ebdhosting.com.
 brd.rw.			1800	IN	NS	ns1.mtnonline.rw.
 brd.rw.			1800	IN	NS	ns2.mtnonline.rw.
+breakawayapartments.rw.	1800	IN	NS	ns1.ebdhosting.com.
+breakawayapartments.rw.	1800	IN	NS	ns2.ebdhosting.com.
+breakawayapartments.rw.	1800	IN	NS	ns3.ebdhosting.com.
+breakawayapartments.rw.	1800	IN	NS	ns4.ebdhosting.com.
 brendabridalshop.rw.	1800	IN	NS	ns1.ebdhosting.com.
 brendabridalshop.rw.	1800	IN	NS	ns2.ebdhosting.com.
 brendabridalshop.rw.	1800	IN	NS	ns3.ebdhosting.com.
@@ -1845,6 +1859,8 @@ bulksms.rw.		1800	IN	NS	ns1.evmak.net.
 bulksms.rw.		1800	IN	NS	ns2.evmak.net.
 bulova.rw.		1800	IN	NS	dns1.cscdns.net.
 bulova.rw.		1800	IN	NS	dns2.cscdns.net.
+burabyobarbara.rw.	1800	IN	NS	ns1.megabithosting.com.
+burabyobarbara.rw.	1800	IN	NS	ns2.megabithosting.com.
 burerawholesale.rw.	1800	IN	NS	ns1.esicia.rw.
 burerawholesale.rw.	1800	IN	NS	ns2.esicia.rw.
 burikantu.rw.		1800	IN	NS	ns5.afriregister.com.
@@ -3483,6 +3499,8 @@ elevate.rw.		1800	IN	NS	ns-487.awsdns-60.com.
 elevate.rw.		1800	IN	NS	ns-988.awsdns-59.net.
 elevate.rw.		1800	IN	NS	ns-1085.awsdns-07.org.
 elevate.rw.		1800	IN	NS	ns-2007.awsdns-58.co.uk.
+elevatics.rw.		1800	IN	NS	ns1.megabithosting.com.
+elevatics.rw.		1800	IN	NS	ns2.megabithosting.com.
 elevation.rw.		1800	IN	NS	ns1.ebdhosting.com.
 elevation.rw.		1800	IN	NS	ns2.ebdhosting.com.
 elevation.rw.		1800	IN	NS	ns3.ebdhosting.com.
@@ -3836,6 +3854,8 @@ evolution.rw.		1800	IN	NS	dns3.zaccodigitaltrustlabs.se.
 evolution.rw.		1800	IN	NS	dns4.zaccodigitaltrustlabs.se.
 evolve.rw.		1800	IN	NS	ns.heartinternet.co.uk.
 evolve.rw.		1800	IN	NS	ns2.heartinternet.co.uk.
+evrardkick.rw.		1800	IN	NS	ns1.megabithosting.com.
+evrardkick.rw.		1800	IN	NS	ns2.megabithosting.com.
 exceed.rw.		1800	IN	NS	ns6.afriregister.com.
 exceed.rw.		1800	IN	NS	dns1.namecheaphosting.com.
 exceed.rw.		1800	IN	NS	dns2.namecheaphosting.com.
@@ -3916,6 +3936,8 @@ fabritech.rw.		1800	IN	NS	ns829.websitewelcome.com.
 fabritech.rw.		1800	IN	NS	ns830.websitewelcome.com.
 fabstore.rw.		1800	IN	NS	ns1.mojahost.com.
 fabstore.rw.		1800	IN	NS	ns2.mojahost.com.
+fabulouscreation.rw.	1800	IN	NS	ns1.megabithosting.com.
+fabulouscreation.rw.	1800	IN	NS	ns2.megabithosting.com.
 facebook.rw.		1800	IN	NS	ns1.lovellsnames.org.
 facebook.rw.		1800	IN	NS	ns3.lovellsnames.org.
 faida-soko.rw.		1800	IN	NS	ns1.101domain.com.
@@ -4143,6 +4165,8 @@ fleet.rw.		1800	IN	NS	ns-cloud-e4.googledomains.com.
 fleurrose.rw.		1800	IN	NS	ns3.afriregister.com.
 fleurrose.rw.		1800	IN	NS	ns5.afriregister.com.
 fleurrose.rw.		1800	IN	NS	ns6.afriregister.com.
+flickstudio.rw.		1800	IN	NS	ns1.megabithosting.com.
+flickstudio.rw.		1800	IN	NS	ns2.megabithosting.com.
 flightmanagement.rw.	1800	IN	NS	ns1.contabo.net.
 flightmanagement.rw.	1800	IN	NS	ns2.contabo.net.
 flightmanagement.rw.	1800	IN	NS	ns3.contabo.net.
@@ -4253,6 +4277,8 @@ foxsports.rw.		1800	IN	NS	ns4.markmonitor.com.
 foxsports.rw.		1800	IN	NS	ns5.markmonitor.com.
 foxsports.rw.		1800	IN	NS	ns6.markmonitor.com.
 foxsports.rw.		1800	IN	NS	ns7.markmonitor.com.
+foxypictures.rw.	1800	IN	NS	ns1.megabithosting.com.
+foxypictures.rw.	1800	IN	NS	ns2.megabithosting.com.
 fpr.rw.			1800	IN	NS	ns1.hostingrails.com.
 fpr.rw.			1800	IN	NS	ns2.hostingrails.com.
 fprinkotanyi.rw.	1800	IN	NS	ns1.hostingrails.com.
@@ -5034,6 +5060,8 @@ hamidasupermarket.rw.	86400	IN	NS	ns1.kitech.rw.
 hamidasupermarket.rw.	86400	IN	NS	ns2.kitech.rw.
 hamzafashion.rw.	86400	IN	NS	ns1.kitech.rw.
 hamzafashion.rw.	86400	IN	NS	ns2.kitech.rw.
+hamzaimages.rw.		86400	IN	NS	ns1.megabithosting.com.
+hamzaimages.rw.		86400	IN	NS	ns2.megabithosting.com.
 hanga.rw.		86400	IN	NS	ns3.afriregister.com.
 hanga.rw.		86400	IN	NS	ns5.afriregister.com.
 hanga.rw.		86400	IN	NS	ns6.afriregister.com.
@@ -5173,6 +5201,14 @@ hervyjohnz.rw.		86400	IN	NS	ns1.kitech.rw.
 hervyjohnz.rw.		86400	IN	NS	ns2.kitech.rw.
 hewitt.rw.		86400	IN	NS	gabe.ns.cloudflare.com.
 hewitt.rw.		86400	IN	NS	jacqueline.ns.cloudflare.com.
+hewlett-packard.rw.	86400	IN	NS	ns1.hpe.com.
+hewlett-packard.rw.	86400	IN	NS	ns2.hpe.com.
+hewlett-packard.rw.	86400	IN	NS	ns3.hpe.com.
+hewlett-packard.rw.	86400	IN	NS	ns4.hpe.com.
+hewlett-packard.rw.	86400	IN	NS	ns5.hpe.com.
+hewlett-packard.rw.	86400	IN	NS	ns6.hpe.com.
+hewlett-packard.rw.	86400	IN	NS	ns7.hpe.com.
+hewlett-packard.rw.	86400	IN	NS	ns8.hpe.com.
 heza.rw.		86400	IN	NS	ns1.epizy.com.
 heza.rw.		86400	IN	NS	ns2.epizy.com.
 hezatours.rw.		86400	IN	NS	rosa.ns.cloudflare.com.
@@ -5802,6 +5838,8 @@ ilelio.rw.		86400	IN	NS	ns5.name-services.com.
 image.rw.		86400	IN	NS	ns1.digitalocean.com.
 image.rw.		86400	IN	NS	ns2.digitalocean.com.
 image.rw.		86400	IN	NS	ns3.digitalocean.com.
+imagestudio.rw.		86400	IN	NS	ns1.megabithosting.com.
+imagestudio.rw.		86400	IN	NS	ns2.megabithosting.com.
 imaginet.rw.		86400	IN	NS	ns1.imaginetrwone.com.
 imaginet.rw.		86400	IN	NS	ns2.imaginetrwone.com.
 imaginewe.rw.		86400	IN	NS	ns1.linode.com.
@@ -5838,8 +5876,8 @@ imenye.rw.		86400	IN	NS	ns3.digitalocean.com.
 imenyesha.rw.		86400	IN	NS	ns1.rdb.rw.
 imenyesha.rw.		86400	IN	NS	ns2.aos.rw.
 imenyesha.rw.		86400	IN	NS	ns3.aos.rw.
-imfura.rw.		86400	IN	NS	ns1179.websitewelcome.com.
-imfura.rw.		86400	IN	NS	ns1180.websitewelcome.com.
+imfura.rw.		86400	IN	NS	ns8185.hostgator.com.
+imfura.rw.		86400	IN	NS	ns8186.hostgator.com.
 imigongo.rw.		86400	IN	NS	ns3.afriregister.com.
 imigongo.rw.		86400	IN	NS	ns5.afriregister.com.
 imigongo.rw.		86400	IN	NS	ns6.afriregister.com.
@@ -6953,6 +6991,8 @@ kigaliarena.rw.		86400	IN	NS	ns1.es81.siteground.eu.
 kigaliarena.rw.		86400	IN	NS	ns2.es81.siteground.eu.
 kigaliassembly.rw.	86400	IN	NS	ns1000.mochahost.com.
 kigaliassembly.rw.	86400	IN	NS	ns2000.mochahost.com.
+kigaliballoonsdecoration.rw. 86400 IN	NS	ns1.megabithosting.com.
+kigaliballoonsdecoration.rw. 86400 IN	NS	ns2.megabithosting.com.
 kigalibooking.rw.	86400	IN	NS	ns1.mojahost.com.
 kigalibooking.rw.	86400	IN	NS	ns2.mojahost.com.
 kigalibusinessfurniture.rw. 86400 IN	NS	ns1.megabithosting.com.
@@ -7070,6 +7110,8 @@ kilimohills.rw.		86400	IN	NS	ns1.cloudwebltd.com.
 kilimohills.rw.		86400	IN	NS	ns2.cloudwebltd.com.
 kiliziyayacu.rw.	86400	IN	NS	ns4.aos.rw.
 kiliziyayacu.rw.	86400	IN	NS	ns5.aos.rw.
+kimasaportaits.rw.	86400	IN	NS	ns1.megabithosting.com.
+kimasaportaits.rw.	86400	IN	NS	ns2.megabithosting.com.
 kimironkoirondo.rw.	86400	IN	NS	ns1.site4now.net.
 kimironkoirondo.rw.	86400	IN	NS	ns2.site4now.net.
 kimironkoirondo.rw.	86400	IN	NS	ns3.site4now.net.
@@ -7557,6 +7599,8 @@ levistrauss.rw.		86400	IN	NS	nans2.levi.com.
 lexsynergy.rw.		86400	IN	NS	ns1.lexsynergy.net.
 lexsynergy.rw.		86400	IN	NS	ns2.lexsynergy.us.
 lexsynergy.rw.		86400	IN	NS	ns3.lexsynergy.info.
+lgstudio.rw.		86400	IN	NS	ns1.megabithosting.com.
+lgstudio.rw.		86400	IN	NS	ns2.megabithosting.com.
 liaisonglobal.rw.	86400	IN	NS	ns829.websitewelcome.com.
 liaisonglobal.rw.	86400	IN	NS	ns830.websitewelcome.com.
 liamwinkel.rw.		86400	IN	NS	ns1.mojahost.com.
@@ -7968,6 +8012,8 @@ marleneliquorstore.rw.	86400	IN	NS	ns1.kitech.rw.
 marleneliquorstore.rw.	86400	IN	NS	ns2.kitech.rw.
 marlenestore.rw.	86400	IN	NS	ns1.megabithosting.com.
 marlenestore.rw.	86400	IN	NS	ns2.megabithosting.com.
+marlerstudio.rw.	86400	IN	NS	ns1.megabithosting.com.
+marlerstudio.rw.	86400	IN	NS	ns2.megabithosting.com.
 marriott.rw.		86400	IN	NS	ns-cloud-d1.googledomains.com.
 marriott.rw.		86400	IN	NS	ns-cloud-d2.googledomains.com.
 marriott.rw.		86400	IN	NS	ns-cloud-d3.googledomains.com.
@@ -8022,6 +8068,8 @@ mattisconstruction.rw.	86400	IN	NS	ns1.esicia.rw.
 mattisconstruction.rw.	86400	IN	NS	ns1.kaneza.com.
 mattisconstruction.rw.	86400	IN	NS	ns2.esicia.rw.
 mattisconstruction.rw.	86400	IN	NS	ns2.kaneza.com.
+mauriceshop.rw.		86400	IN	NS	ns1.megabithosting.com.
+mauriceshop.rw.		86400	IN	NS	ns2.megabithosting.com.
 maximestore.rw.		86400	IN	NS	ns1.ebdhosting.com.
 maximestore.rw.		86400	IN	NS	ns2.ebdhosting.com.
 maximestore.rw.		86400	IN	NS	ns3.ebdhosting.com.
@@ -8067,6 +8115,8 @@ mbere.rw.		86400	IN	NS	ns542.webhosting.co.rw.
 mbsimbasafaris.rw.	86400	IN	NS	ns3.afriregister.com.
 mbsimbasafaris.rw.	86400	IN	NS	ns5.afriregister.com.
 mbsimbasafaris.rw.	86400	IN	NS	ns6.afriregister.com.
+mbstudio.rw.		86400	IN	NS	ns1.megabithosting.com.
+mbstudio.rw.		86400	IN	NS	ns2.megabithosting.com.
 mbuga.rw.		86400	IN	NS	ns1.mojahost.com.
 mbuga.rw.		86400	IN	NS	ns2.mojahost.com.
 mbwira.rw.		86400	IN	NS	ns3.afriregister.com.
@@ -8741,6 +8791,10 @@ navasys.rw.		86400	IN	NS	ns4.aos.rw.
 navasys.rw.		86400	IN	NS	ns5.aos.rw.
 nbeg.rw.		86400	IN	NS	ns1.hostblueinc.com.
 nbeg.rw.		86400	IN	NS	ns2.hostblueinc.com.
+nbg.rw.			86400	IN	NS	ns1.ebdhosting.com.
+nbg.rw.			86400	IN	NS	ns2.ebdhosting.com.
+nbg.rw.			86400	IN	NS	ns3.ebdhosting.com.
+nbg.rw.			86400	IN	NS	ns4.ebdhosting.com.
 ncnm.rw.		86400	IN	NS	ns1.eyhost.biz.
 ncnm.rw.		86400	IN	NS	ns2.eyhost.biz.
 ndabagacoffee.rw.	86400	IN	NS	ns3.afriregister.com.
@@ -10804,6 +10858,8 @@ rwb.rw.			86400	IN	NS	ns2.aos.rw.
 rwb.rw.			86400	IN	NS	ns3.aos.rw.
 rwbc.rw.		86400	IN	NS	ns1.adicthost.net.
 rwbc.rw.		86400	IN	NS	ns2.adicthost.net.
+rwemasamartist.rw.	86400	IN	NS	ns1.megabithosting.com.
+rwemasamartist.rw.	86400	IN	NS	ns2.megabithosting.com.
 rwematopnail.rw.	86400	IN	NS	ns1.megabithosting.com.
 rwematopnail.rw.	86400	IN	NS	ns2.megabithosting.com.
 rwemedc.rw.		86400	IN	NS	ns1.adicthost.net.
@@ -11107,6 +11163,8 @@ seso.rw.		86400	IN	NS	dns1.namecheaphosting.com.
 seso.rw.		86400	IN	NS	dns2.namecheaphosting.com.
 sex.rw.			86400	IN	NS	parking1.qualigo.com.
 sex.rw.			86400	IN	NS	parking2.qualigo.com.
+sezeranoartist.rw.	86400	IN	NS	ns1.megabithosting.com.
+sezeranoartist.rw.	86400	IN	NS	ns2.megabithosting.com.
 sfa.rw.			86400	IN	NS	ns1.adicthost.net.
 sfa.rw.			86400	IN	NS	ns2.adicthost.net.
 sfharcgis.rw.		86400	IN	NS	ns1.rdb.rw.
@@ -11542,6 +11600,8 @@ souk.rw.		86400	IN	NS	nssui.comlaude.ch.
 souk.rw.		86400	IN	NS	nsusa.comlaude.net.
 soularmoire.rw.		86400	IN	NS	ns1.megabithosting.com.
 soularmoire.rw.		86400	IN	NS	ns2.megabithosting.com.
+soundsrecordingstudio.rw. 86400	IN	NS	ns1.megabithosting.com.
+soundsrecordingstudio.rw. 86400	IN	NS	ns2.megabithosting.com.
 souq.rw.		86400	IN	NS	nsgbr.comlaude.co.uk.
 souq.rw.		86400	IN	NS	nssui.comlaude.ch.
 souq.rw.		86400	IN	NS	nsusa.comlaude.net.
@@ -11691,6 +11751,8 @@ stayonline.rw.		86400	IN	NS	ns6.afriregister.com.
 steelgiant.rw.		86400	IN	NS	ns3.afriregister.com.
 steelgiant.rw.		86400	IN	NS	ns5.afriregister.com.
 steelgiant.rw.		86400	IN	NS	ns6.afriregister.com.
+steleval.rw.		86400	IN	NS	ns1.spiderbithost.com.
+steleval.rw.		86400	IN	NS	ns2.spiderbithost.com.
 stellaartois.rw.	86400	IN	NS	ns.domainnetwork.se.
 stellaartois.rw.	86400	IN	NS	ns2.domainnetwork.se.
 stellatush.rw.		86400	IN	NS	ns1.kitech.rw.
@@ -12950,6 +13012,8 @@ vanguard.rw.		86400	IN	NS	ns1.esicia.rw.
 vanguard.rw.		86400	IN	NS	ns2.esicia.rw.
 vanguardeconomics.rw.	86400	IN	NS	ns1.esicia.rw.
 vanguardeconomics.rw.	86400	IN	NS	ns2.esicia.rw.
+vanphotography.rw.	86400	IN	NS	ns1.megabithosting.com.
+vanphotography.rw.	86400	IN	NS	ns2.megabithosting.com.
 vantara.rw.		86400	IN	NS	sgsinns08.hds.com.
 vantara.rw.		86400	IN	NS	ukspkns04.hds.com.
 vantara.rw.		86400	IN	NS	ukspkns05.hds.com.
