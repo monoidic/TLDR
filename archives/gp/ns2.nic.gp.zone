@@ -1,4 +1,4 @@
-gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2021101916 86400 7200 2592000 345600
+gp.			86400	IN	SOA	ns1.nic.gp. jbroom.nic.gp. 2021102014 86400 7200 2592000 345600
 gp.			86400	IN	MX	10 ns1.nic.gp.
 gp.			86400	IN	NS	a.lactld.org.
 gp.			86400	IN	NS	gp.cctld.authdns.ripe.net.
@@ -523,6 +523,9 @@ auditeurlegal.gp.	86400	IN	NS	pns1.cloudns.net.
 auditeurlegal.gp.	86400	IN	NS	pns3.cloudns.net.
 aui.gp.			86400	IN	NS	ns15.ovh.net.
 aui.gp.			86400	IN	NS	dns15.ovh.net.
+aus.gp.			86400	IN	NS	ns1.onlydomains.com.
+aus.gp.			86400	IN	NS	ns2.onlydomains.com.
+aus.gp.			86400	IN	NS	ns3.onlydomains.com.
 aus-g4s.gp.		86400	IN	NS	ns1.101domain.com.
 aus-g4s.gp.		86400	IN	NS	ns2.101domain.com.
 ausecurity.gp.		86400	IN	NS	ns1.101domain.com.
@@ -1342,6 +1345,8 @@ devexpert.gp.		86400	IN	NS	ns1.ikoula.fr.
 devexpert.gp.		86400	IN	NS	ns2.ikoula.fr.
 dg.gp.			86400	IN	NS	ns1.register.it.
 dg.gp.			86400	IN	NS	ns2.register.it.
+dgcasa.gp.		86400	IN	NS	ns1.register.it.
+dgcasa.gp.		86400	IN	NS	ns2.register.it.
 dhoze.gp.		86400	IN	NS	pdns142.ultradns.net.
 dhoze.gp.		86400	IN	NS	pdns142.ultradns.org.
 dialog.gp.		86400	IN	NS	ns1.101domain.com.
@@ -1431,6 +1436,8 @@ doctrine.gp.		86400	IN	NS	ns-142-c.gandi.net.
 doctrine.gp.		86400	IN	NS	ns-211-b.gandi.net.
 docusign.gp.		86400	IN	NS	ns1.markmonitor.com.
 docusign.gp.		86400	IN	NS	ns3.markmonitor.com.
+dolcegabbanacasa.gp.	86400	IN	NS	ns1.register.it.
+dolcegabbanacasa.gp.	86400	IN	NS	ns2.register.it.
 dolibarr.gp.		86400	IN	NS	ns1.cloudns.net.
 dolibarr.gp.		86400	IN	NS	pns1.cloudns.net.
 dolibarr.gp.		86400	IN	NS	pns2.cloudns.net.

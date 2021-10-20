@@ -1,13 +1,13 @@
-sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222406813 3600 1800 3600000 5400
-sn.			43200	IN	RRSIG	SOA 13 1 43200 20211219141003 20211020131003 9009 sn. 3SH6auHEN3sMeAIhv+iwsO7zqEjU3rfZumTGfBVAuWYwr9fSCgbDkMcy TAdCaeSygRGRDZ6N6JWlZR68S3U/eg==
+sn.			43200	IN	SOA	nsmaster.prive.nic.sn. hostmaster.nic.sn. 2222406826 3600 1800 3600000 5400
+sn.			43200	IN	RRSIG	SOA 13 1 43200 20211219161002 20211020151002 9009 sn. L4Nh3wOUp821FCXfjlZSIEjWHV7BGkqRQUj+WAZFrH2yks5fueOU1VLc YFVbPhm+wL2CbaYZYqZS82ykojd/yg==
 sn.			43200	IN	NS	ns.ucad.sn.
 sn.			43200	IN	NS	sn.cctld.authdns.ripe.net.
 sn.			43200	IN	NS	ns1.sonatel.sn.
 sn.			43200	IN	NS	ns-sn.nic.fr.
 sn.			43200	IN	NS	censvrns0001.ird.fr.
 sn.			43200	IN	RRSIG	NS 13 1 43200 20211125031555 20210926024227 9009 sn. aFRnUwhnBcwIF8QbXn/YI65DGpLJuQEjKvLuM+PF1tjFbqhaQFSrGXUC T+RNHYnzI7ldXRuFrCGvgG+mfHPqMw==
-sn.			172800	IN	TXT	"5 RRs processed [20/10/2021 16H10:02]"
-sn.			172800	IN	RRSIG	TXT 13 1 172800 20211105015109 20211020131003 9009 sn. q5KEG3ny/RgNgZzD9F73CHHgYHDWHOdPUlQfIMnv8sUqUpA1JodPhlwC TWrUd0GSFUtaoPh9NABD8K6v0wZa0A==
+sn.			172800	IN	TXT	"No RRs processed [20/10/2021 18H10:01]"
+sn.			172800	IN	RRSIG	TXT 13 1 172800 20211219102557 20211020151002 9009 sn. Ami2DGsT+OZQFeDspUHqln4ZMk7lthpJXJFPjJxoXJWsdqXRoPMESYsD pbq5yDKbDrlosOQ/6BlTStoW2me1Fg==
 sn.			43200	IN	DNSKEY	256 3 13 jycm7c4atq8myus5X+sd08G8y5SKj6iRccGXqJQywCjB8c66+Zkx8ziH m86FSrAQzYQSucRWu7x7obJUITTA4w==
 sn.			43200	IN	DNSKEY	257 3 13 SpPoQQobDEYMj+IPin2bVYY8PBElq3hIoEwwDjlF6pRKabFQqXYkzSKn iEZEIs22YcHl3BkpWl9JheL50vKa6A==
 sn.			43200	IN	RRSIG	DNSKEY 13 1 43200 20211128062952 20210929054450 37490 sn. LrQHZPSDIquvHBwVRBwI1UjOQ/Hm/vcI6Zt6fGIPQndCUHkqcjMUOepo nzc4FbD2zwMDXiOQNT6Jk8o5mOPQgA==
@@ -690,7 +690,7 @@ africargo.sn.		43200	IN	NS	ns2.kheweul.net.
 africasamakag.sn.	43200	IN	NS	ns13.ovh.net.
 africasamakag.sn.	43200	IN	NS	dns13.ovh.net.
 africasamakag.sn.	43200	IN	DS	50059 8 2 3FEC24975A9BF32B4F97349873DCD80F6E3317BA26A6792A8F5725EA 84BAE3E8
-africasamakag.sn.	43200	IN	RRSIG	DS 13 2 43200 20211103143941 20210904134119 9009 sn. EbSQJOdIgQxh32bC8aFSXZ/2VSY1lgs8aPs1MTaE2f0AqAppem0cK/Mq ucbJOYHiBWCsR1ChByMDuqqxNsBVdg==
+africasamakag.sn.	43200	IN	RRSIG	DS 13 2 43200 20211219141024 20211020133941 9009 sn. edb+TGBCW6lzd8izMyCEWAPyHoCIq8APQkNuvBwcFRRz/1kSVXsXtWEB NpYEaXC7C1cV3hdQg6B6CwhE69xCBQ==
 africaseptic.sn.	43200	IN	NS	ns1.francedns.com.
 africaseptic.sn.	43200	IN	NS	ns2.francedns.com.
 africaseptic.sn.	43200	IN	NS	ns3.francedns.com.
@@ -4604,8 +4604,8 @@ covid19.sn.		43200	IN	NS	ns3.afrowebmaster.com.
 covid19.sn.		43200	IN	NS	ns4.afrowebmaster.com.
 covoiturage.sn.		43200	IN	NS	ns18.ovh.net.
 covoiturage.sn.		43200	IN	NS	dns18.ovh.net.
-cpi.sn.			172800	IN	NS	ns15.ovh.net.
-cpi.sn.			172800	IN	NS	dns15.ovh.net.
+cpi.sn.			172800	IN	NS	ns200.anycast.me.
+cpi.sn.			172800	IN	NS	dns200.anycast.me.
 cpossible.sn.		43200	IN	NS	ns1.dns-parking.com.
 cpossible.sn.		43200	IN	NS	ns2.dns-parking.com.
 crades.sn.		172800	IN	NS	dns1.registrar-servers.com.
