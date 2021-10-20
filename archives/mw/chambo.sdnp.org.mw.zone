@@ -1,4 +1,4 @@
-mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1634681101 1800 600 604800 1800
+mw.			18000	IN	SOA	chambo.sdnp.org.mw. domains.registrar.mw. 1634695501 1800 600 604800 1800
 mw.			18000	IN	NS	pch1.nic.mw.
 mw.			18000	IN	NS	chambo.sdnp.org.mw.
 mw.			18000	IN	NS	d.ext.nic.cz.
@@ -4088,9 +4088,6 @@ western.mw.		18000	IN	NS	proxy2.africa-online.net.
 western.mw.		18000	IN	NS	proxy3.africa-online.net.
 westernunion.mw.	18000	IN	NS	ns1.markmonitor.com.
 westernunion.mw.	18000	IN	NS	ns3.markmonitor.com.
-westsidenotice.mw.	18000	IN	NS	ns1.101domain.com.
-westsidenotice.mw.	18000	IN	NS	ns2.101domain.com.
-westsidenotice.mw.	18000	IN	NS	ns5.101domain.com.
 whatsapp.mw.		18000	IN	NS	ns1.lovellsnames.org.
 whatsapp.mw.		18000	IN	NS	ns2.lovellsnames.org.
 whatsapp.mw.		18000	IN	NS	ns3.lovellsnames.org.
