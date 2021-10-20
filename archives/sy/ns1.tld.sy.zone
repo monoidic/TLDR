@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021102017 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1634709739"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021102020 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1634716942"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -6708,6 +6708,8 @@ testsanaa.sy.		86400	IN	NS	ns3.tld.sy.
 testsanaa.sy.		86400	IN	NS	ns4.tld.sy.
 tezenis.sy.		86400	IN	NS	nsgbr.comlaude.co.uk.
 tezenis.sy.		86400	IN	NS	nssui.comlaude.ch.
+th.sy.			86400	IN	NS	nina.ns.cloudflare.com.
+th.sy.			86400	IN	NS	hayes.ns.cloudflare.com.
 thaalabmacker.sy.	86400	IN	NS	ns1.madfox.solutions.
 thaalabmacker.sy.	86400	IN	NS	ns1.madfoxhosting.com.
 thaalabmacker.sy.	86400	IN	NS	ns2.madfox.solutions.
@@ -7169,8 +7171,6 @@ zadak.sy.		86400	IN	NS	ns1.tqniyati.com.
 zadak.sy.		86400	IN	NS	ns2.tqniyati.com.
 zaditco.sy.		86400	IN	NS	suspend1.tld.sy.
 zaditco.sy.		86400	IN	NS	suspend2.tld.sy.
-zady.sy.		86400	IN	NS	ns1.tqniyati.com.
-zady.sy.		86400	IN	NS	ns2.tqniyati.com.
 zaftra.sy.		86400	IN	NS	suspend1.tld.sy.
 zaftra.sy.		86400	IN	NS	suspend2.tld.sy.
 zaha.sy.		86400	IN	NS	suspend1.tld.sy.

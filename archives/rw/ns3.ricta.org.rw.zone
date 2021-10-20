@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021102006 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1634709624"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021102008 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1634716818"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -3539,6 +3539,9 @@ elyseshop.rw.		1800	IN	NS	ns1.ebdhosting.com.
 elyseshop.rw.		1800	IN	NS	ns2.ebdhosting.com.
 elyseshop.rw.		1800	IN	NS	ns3.ebdhosting.com.
 elyseshop.rw.		1800	IN	NS	ns4.ebdhosting.com.
+emafrica.rw.		1800	IN	NS	ns3.afriregister.com.
+emafrica.rw.		1800	IN	NS	ns5.afriregister.com.
+emafrica.rw.		1800	IN	NS	ns6.afriregister.com.
 emall.rw.		1800	IN	NS	ns1.emall.rw.
 emall.rw.		1800	IN	NS	ns2.emall.rw.
 ns1.emall.rw.		1800	IN	A	213.136.92.86
@@ -4357,6 +4360,8 @@ g4s.rw.			1800	IN	NS	pdns4.safenames.org.
 g4s.rw.			1800	IN	NS	pdns5.safenames.info.
 g4s-aus.rw.		1800	IN	NS	ns1.101domain.com.
 g4s-aus.rw.		1800	IN	NS	ns2.101domain.com.
+gabinmazinaarts.rw.	1800	IN	NS	ns1.megabithosting.com.
+gabinmazinaarts.rw.	1800	IN	NS	ns2.megabithosting.com.
 gaelebraids.rw.		1800	IN	NS	ns1.kitech.rw.
 gaelebraids.rw.		1800	IN	NS	ns2.kitech.rw.
 gahanzinotary.rw.	1800	IN	NS	ns1.ebdhosting.com.
@@ -4496,6 +4501,8 @@ geoconsult.rw.		1800	IN	NS	ns1.vodadns.com.
 geoconsult.rw.		1800	IN	NS	ns2.vodadns.com.
 geodata.rw.		1800	IN	NS	ns4.aos.rw.
 geodata.rw.		1800	IN	NS	ns5.aos.rw.
+germainart.rw.		1800	IN	NS	ns1.megabithosting.com.
+germainart.rw.		1800	IN	NS	ns2.megabithosting.com.
 gerrytours-safaris.rw.	1800	IN	NS	ns1.esicia.rw.
 gerrytours-safaris.rw.	1800	IN	NS	ns1.kaneza.com.
 gerrytours-safaris.rw.	1800	IN	NS	ns2.esicia.rw.
@@ -4689,6 +4696,8 @@ golfandmore.rw.		1800	IN	NS	dns1.namecheaphosting.com.
 golfandmore.rw.		1800	IN	NS	dns2.namecheaphosting.com.
 goodbrand.rw.		1800	IN	NS	ns1.bh-67.webhostbox.net.
 goodbrand.rw.		1800	IN	NS	ns2.bh-67.webhostbox.net.
+goodenvironment.rw.	1800	IN	NS	ns1.megabithosting.com.
+goodenvironment.rw.	1800	IN	NS	ns2.megabithosting.com.
 goodfamilyrwanda.rw.	1800	IN	NS	ns1.stackdns.com.
 goodfamilyrwanda.rw.	1800	IN	NS	ns2.stackdns.com.
 goodfamilyrwanda.rw.	1800	IN	NS	ns3.stackdns.com.
@@ -7683,6 +7692,8 @@ lotto.rw.		86400	IN	NS	ns2.esicia.rw.
 lottoland.rw.		86400	IN	NS	nsgbr.comlaude.co.uk.
 lottoland.rw.		86400	IN	NS	nssui.comlaude.ch.
 lottoland.rw.		86400	IN	NS	nsusa.comlaude.net.
+lovendlightjewelry.rw.	86400	IN	NS	ns1.kitech.rw.
+lovendlightjewelry.rw.	86400	IN	NS	ns2.kitech.rw.
 lovendlightjewlry.rw.	86400	IN	NS	ns1.kitech.rw.
 lovendlightjewlry.rw.	86400	IN	NS	ns2.kitech.rw.
 lovetolive.rw.		86400	IN	NS	ns1.ebdhosting.com.
@@ -8305,6 +8316,8 @@ momentstudio.rw.	86400	IN	NS	ns1.kitech.rw.
 momentstudio.rw.	86400	IN	NS	ns2.kitech.rw.
 momo.rw.		86400	IN	NS	ns1.esicia.rw.
 momo.rw.		86400	IN	NS	ns2.esicia.rw.
+monetbil.rw.		86400	IN	NS	phil.ns.cloudflare.com.
+monetbil.rw.		86400	IN	NS	athena.ns.cloudflare.
 money.rw.		86400	IN	NS	ns-177.awsdns-22.com.
 money.rw.		86400	IN	NS	ns-1118.awsdns-11.org.
 money.rw.		86400	IN	NS	ns-1578.awsdns-05.co.uk.
@@ -9133,6 +9146,8 @@ oculusvr.rw.		86400	IN	NS	ns4.lovellsnames.org.
 od.rw.			86400	IN	NS	ns1.digitalocean.com.
 od.rw.			86400	IN	NS	ns2.digitalocean.com.
 od.rw.			86400	IN	NS	ns3.digitalocean.com.
+odileira.rw.		86400	IN	NS	ns1.megabithosting.com.
+odileira.rw.		86400	IN	NS	ns2.megabithosting.com.
 office.rw.		86400	IN	NS	ns1-06.azure-dns.com.
 office.rw.		86400	IN	NS	ns2-06.azure-dns.net.
 office.rw.		86400	IN	NS	ns3-06.azure-dns.org.
@@ -10564,6 +10579,8 @@ ruhondoresort.rw.	86400	IN	NS	ns3.afriregister.com.
 ruhondoresort.rw.	86400	IN	NS	ns5.afriregister.com.
 rujo.rw.		86400	IN	NS	uk1.hostbuddy.cloud.
 rujo.rw.		86400	IN	NS	uk2.hostbuddy.cloud.
+rukiafashiondesigner.rw. 86400	IN	NS	ns1.megabithosting.com.
+rukiafashiondesigner.rw. 86400	IN	NS	ns2.megabithosting.com.
 rumbuka.rw.		86400	IN	NS	ns1.webspace.co.rw.
 rumbuka.rw.		86400	IN	NS	ns3.webspace.co.rw.
 rumbuka.rw.		86400	IN	NS	ns4.webspace.co.rw.
@@ -11057,6 +11074,8 @@ shakaboutique.rw.	86400	IN	NS	dns1.namecheaphosting.com.
 shakaboutique.rw.	86400	IN	NS	dns2.namecheaphosting.com.
 shakuruportaits.rw.	86400	IN	NS	ns1.megabithosting.com.
 shakuruportaits.rw.	86400	IN	NS	ns2.megabithosting.com.
+shaloommakeup.rw.	86400	IN	NS	ns1.megabithosting.com.
+shaloommakeup.rw.	86400	IN	NS	ns2.megabithosting.com.
 shambapro.rw.		86400	IN	NS	ns5.afriregister.com.
 shambapro.rw.		86400	IN	NS	ns6.afriregister.com.
 shamigo.rw.		86400	IN	NS	ns3.afriregister.com.
