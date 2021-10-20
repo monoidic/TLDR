@@ -1,4 +1,4 @@
-xn--j1amh.		3600	IN	SOA	dns1.u-registry.com. dotukr.uanic.net. 2110200959 86400 3600 2592000 345600
+xn--j1amh.		3600	IN	SOA	dns1.u-registry.com. dotukr.uanic.net. 2110201321 86400 3600 2592000 345600
 xn--j1amh.		3600	IN	NS	dns1.u-registry.com.
 xn--j1amh.		3600	IN	NS	dns2.u-registry.net.
 xn--j1amh.		3600	IN	NS	dns3.dotukr.com.
@@ -12809,9 +12809,6 @@ xn--80aesgiorel.xn--j1amh. 3600	IN	NS	ns210.inhostedns.net.
 xn--80aesh6ag.xn--j1amh. 3600	IN	NS	ns3.ukrnames.com.
 xn--80aesh6ag.xn--j1amh. 3600	IN	NS	ns2.ukrnames.com.
 xn--80aesh6ag.xn--j1amh. 3600	IN	NS	ns1.ukrnames.com.
-xn--80aeshfqb3a9c.xn--j1amh. 3600 IN	NS	ns32.inhostedns.org.
-xn--80aeshfqb3a9c.xn--j1amh. 3600 IN	NS	ns22.inhostedns.net.
-xn--80aeshfqb3a9c.xn--j1amh. 3600 IN	NS	ns12.inhostedns.com.
 xn--80aesinfeih9d.xn--j1amh. 3600 IN	NS	gamma.freehost.com.ua.
 xn--80aesinfeih9d.xn--j1amh. 3600 IN	NS	beta.freehost.com.ua.
 xn--80aesinfeih9d.xn--j1amh. 3600 IN	NS	alpha.freehost.com.ua.

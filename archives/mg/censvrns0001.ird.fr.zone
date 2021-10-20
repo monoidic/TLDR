@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021102008 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021102010 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1634716838"
+mg.			7200	IN	TXT	"Generation Time: 1634724039"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -6502,6 +6502,8 @@ maniry.mg.		86400	IN	NS	ns1.cloudns.io.
 maniry.mg.		86400	IN	NS	ns2.cloudns.io.
 manisa.mg.		86400	IN	NS	ns1.da.cloudns.io.
 manisa.mg.		86400	IN	NS	ns2.da.cloudns.io.
+manjagasitsara.mg.	86400	IN	NS	ns1.gasyweb.com.
+manjagasitsara.mg.	86400	IN	NS	ns2.gasyweb.com.
 manjo.mg.		86400	IN	NS	ns1.hostpapa.com.
 manjo.mg.		86400	IN	NS	ns2.hostpapa.com.
 mantaly-transpor.mg.	86400	IN	NS	ns1.da.cloudns.io.
@@ -6746,11 +6748,32 @@ mesaudamilano.mg.	86400	IN	NS	ns2.register.it.
 meta.mg.		86400	IN	NS	ns1166.ispapi.net.
 meta.mg.		86400	IN	NS	ns2219.ispapi.net.
 meta.mg.		86400	IN	NS	ns3202.ispapi.net.
+metafacebook.mg.	86400	IN	NS	ns3202.ispapi.net.
+metafacebook.mg.	86400	IN	NS	ns2219.ispapi.net.
+metafacebook.mg.	86400	IN	NS	ns1166.ispapi.net.
+metafb.mg.		86400	IN	NS	ns3202.ispapi.net.
+metafb.mg.		86400	IN	NS	ns2219.ispapi.net.
+metafb.mg.		86400	IN	NS	ns1166.ispapi.net.
+metainstagram.mg.	86400	IN	NS	ns3202.ispapi.net.
+metainstagram.mg.	86400	IN	NS	ns2219.ispapi.net.
+metainstagram.mg.	86400	IN	NS	ns1166.ispapi.net.
 metallikit.mg.		86400	IN	NS	ns1.mg.tambazotra.net.
 metallikit.mg.		86400	IN	NS	ns2.mg.tambazotra.net.
 metallikit.mg.		86400	IN	NS	ns1.fr.malagasy.com.
+metamessenger.mg.	86400	IN	NS	ns3202.ispapi.net.
+metamessenger.mg.	86400	IN	NS	ns2219.ispapi.net.
+metamessenger.mg.	86400	IN	NS	ns1166.ispapi.net.
+metanovi.mg.		86400	IN	NS	ns3202.ispapi.net.
+metanovi.mg.		86400	IN	NS	ns2219.ispapi.net.
+metanovi.mg.		86400	IN	NS	ns1166.ispapi.net.
 metaverse.mg.		86400	IN	NS	dns2015a.trouble-free.net.
 metaverse.mg.		86400	IN	NS	dns2015b.trouble-free.net.
+metawhatsapp.mg.	86400	IN	NS	ns3202.ispapi.net.
+metawhatsapp.mg.	86400	IN	NS	ns2219.ispapi.net.
+metawhatsapp.mg.	86400	IN	NS	ns1166.ispapi.net.
+metaworkplace.mg.	86400	IN	NS	ns3202.ispapi.net.
+metaworkplace.mg.	86400	IN	NS	ns2219.ispapi.net.
+metaworkplace.mg.	86400	IN	NS	ns1166.ispapi.net.
 meteo.mg.		86400	IN	NS	ivan.ns.cloudflare.com.
 meteo.mg.		86400	IN	NS	nora.ns.cloudflare.com.
 meteomadagascar.mg.	86400	IN	NS	ns.dts.mg.
@@ -11056,6 +11079,8 @@ yourconciergerie.mg.	86400	IN	NS	ns1.da.cloudns.io.
 yourconciergerie.mg.	86400	IN	NS	ns2.da.cloudns.io.
 yourdialer.mg.		86400	IN	NS	ns29.illi.co.mg.
 yourdialer.mg.		86400	IN	NS	ns29.dot.mg.
+yourgift.mg.		86400	IN	NS	ns1.da.cloudns.io.
+yourgift.mg.		86400	IN	NS	ns2.da.cloudns.io.
 youscribe.mg.		86400	IN	NS	ns1.francedns.com.
 youscribe.mg.		86400	IN	NS	ns2.francedns.com.
 youscribe.mg.		86400	IN	NS	ns3.francedns.com.

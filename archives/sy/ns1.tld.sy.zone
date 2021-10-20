@@ -1,5 +1,5 @@
-sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021102020 3600 3600 2592000 3600
-sy.			86400	IN	TXT	"Generation Time: 1634716942"
+sy.			86400	IN	SOA	ns1.tld.sy. dns.tld.sy. 2021102023 3600 3600 2592000 3600
+sy.			86400	IN	TXT	"Generation Time: 1634724133"
 sy.			86400	IN	NS	sy.cctld.authdns.ripe.net.
 sy.			86400	IN	NS	ns1.tld.sy.
 sy.			86400	IN	NS	pch.anycast.tld.sy.
@@ -5132,6 +5132,8 @@ pharma-well.sy.		86400	IN	NS	ns1.185.194.124.200.
 pharma-well.sy.		86400	IN	NS	ns2.185.194.124.200.
 pharmalink.sy.		86400	IN	NS	auth1.syriatelisp.com.sy.
 pharmalink.sy.		86400	IN	NS	auth2.syriatelisp.com.sy.
+pharmashop.sy.		86400	IN	NS	ns3.tld.sy.
+pharmashop.sy.		86400	IN	NS	ns4.tld.sy.
 pharmaway.sy.		86400	IN	NS	suspend1.tld.sy.
 pharmaway.sy.		86400	IN	NS	suspend2.tld.sy.
 pharmomedica.sy.	86400	IN	NS	suspend1.tld.sy.
