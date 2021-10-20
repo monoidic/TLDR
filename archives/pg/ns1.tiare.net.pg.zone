@@ -1,4 +1,4 @@
-pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2021101400 14400 7200 1728000 14400
+pg.			172800	IN	SOA	ns1.unitech.ac.pg. dns.unitech.ac.pg. 2021102003 14400 7200 1728000 14400
 pg.			172800	IN	NS	ns.UU.NET.
 pg.			172800	IN	NS	ns1.tiare.net.PG.
 pg.			172800	IN	NS	ns1.unitech.ac.PG.
@@ -42,8 +42,8 @@ caritasbuscoll.AC.pg.	172800	IN	NS	ns1.siteground.net.
 caritasbuscoll.AC.pg.	172800	IN	NS	ns2.siteground.net.
 chanelcollege.AC.pg.	172800	IN	NS	ns1.domain.com.
 chanelcollege.AC.pg.	172800	IN	NS	ns2.domain.com.
-cltc.AC.pg.		172800	IN	NS	ns1.hostpapa.com.
-cltc.AC.pg.		172800	IN	NS	ns2.hostpapa.com.
+cltc.AC.pg.		172800	IN	NS	ns1.hzaen579.hostpapavps.net.
+cltc.AC.pg.		172800	IN	NS	ns2.hzaen579.hostpapavps.net.
 cmds.AC.pg.		172800	IN	NS	ns1.datec.net.pg.
 cmds.AC.pg.		172800	IN	NS	ns2.datec.net.pg.
 cmds.AC.pg.		172800	IN	NS	ns3.datec.net.pg.
@@ -300,6 +300,7 @@ agmark.COM.pg.		172800	IN	NS	ns3.qnetau.com.
 agoratimbers.COM.pg.	172800	IN	NS	ns1.qnetau.com.
 agoratimbers.COM.pg.	172800	IN	NS	ns2.qnetau.com.
 agoratimbers.COM.pg.	172800	IN	NS	ns3.qnetau.com.
+AgTech.COM.pg.		172800	IN	NS	ns1.bluehost.com.
 aidan.COM.pg.		172800	IN	NS	ns1.dreamhost.com.
 aidan.COM.pg.		172800	IN	NS	ns2.dreamhost.com.
 aidan.COM.pg.		172800	IN	NS	ns3.dreamhost.com.
@@ -360,6 +361,8 @@ allcompng.COM.pg.	172800	IN	NS	ns4.servage.net.
 alllifting.COM.pg.	172800	IN	NS	ns1.qnetau.com.
 alllifting.COM.pg.	172800	IN	NS	ns2.qnetau.com.
 alllifting.COM.pg.	172800	IN	NS	ns3.qnetau.com.
+alnajolimited.COM.pg.	172800	IN	NS	ns1.pngconnect.com.
+alnajolimited.COM.pg.	172800	IN	NS	ns2.pngconnect.com.
 alotauenterprises.COM.pg. 172800 IN	NS	ns1.server-cpanel.com.
 alotauenterprises.COM.pg. 172800 IN	NS	ns2.server-cpanel.com.
 alotauinternationalhotel.COM.pg. 172800	IN NS	ns1.global.net.pg.
@@ -4122,6 +4125,8 @@ tyrespng.COM.pg.	172800	IN	NS	ns2.global.net.pg.
 tyrespng.COM.pg.	172800	IN	NS	ns3.global.net.pg.
 udc.COM.pg.		172800	IN	NS	ns1.telinet.com.pg.
 udc.COM.pg.		172800	IN	NS	ns2.telinet.com.pg.
+ueccp.COM.pg.		172800	IN	NS	ns1.dns-parking.com.
+ueccp.COM.pg.		172800	IN	NS	ns2.dns-parking.com.
 ufl.COM.pg.		172800	IN	NS	ns1.techswitchon.com.
 ufl.COM.pg.		172800	IN	NS	ns2.techswitchon.com.
 ultimax.COM.pg.		172800	IN	NS	ns1.sgp25.siteground.asia.
@@ -4134,6 +4139,8 @@ umw.COM.pg.		172800	IN	NS	ns3.datec.net.pg.
 unitedseafoods.COM.pg.	172800	IN	NS	ns1.qnetau.com.
 unitedseafoods.COM.pg.	172800	IN	NS	ns2.qnetau.com.
 unitedseafoods.COM.pg.	172800	IN	NS	ns3.qnetau.com.
+unitygroup.COM.pg.	172800	IN	NS	ns1.telinet.com.pg.
+unitygroup.COM.pg.	172800	IN	NS	ns2.telinet.com.pg.
 upd.COM.pg.		172800	IN	NS	ns1.datec.net.pg.
 upd.COM.pg.		172800	IN	NS	ns2.datec.net.pg.
 upd.COM.pg.		172800	IN	NS	ns3.datec.net.pg.
@@ -5346,6 +5353,9 @@ mariestopespng.ORG.pg.	172800	IN	NS	ns2.datec.net.pg.
 mariestopespng.ORG.pg.	172800	IN	NS	ns3.datec.net.pg.
 mbs.ORG.pg.		172800	IN	NS	ns1.digiteccloud.com.
 mbs.ORG.pg.		172800	IN	NS	ns2.digiteccloud.com.
+melanesianinstitute.ORG.pg. 172800 IN	NS	ns1.datec.net.pg.
+melanesianinstitute.ORG.pg. 172800 IN	NS	ns2.datec.net.pg.
+melanesianinstitute.ORG.pg. 172800 IN	NS	ns3.datec.net.pg.
 mendimunhiu.ORG.pg.	172800	IN	NS	ns1.a2hosting.com.
 mendimunhiu.ORG.pg.	172800	IN	NS	ns2.a2hosting.com.
 mendimunhiu.ORG.pg.	172800	IN	NS	ns3.a2hosting.com.

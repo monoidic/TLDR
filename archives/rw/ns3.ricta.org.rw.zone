@@ -1,5 +1,5 @@
-rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021102004 86400 7200 604800 1800
-rw.			1800	IN	TXT	"Generation Time: 1634702423"
+rw.			1800	IN	SOA	registry.ricta.org.rw. info.ricta.org.rw. 2021102006 86400 7200 604800 1800
+rw.			1800	IN	TXT	"Generation Time: 1634709624"
 rw.			1800	IN	NS	ns1.ricta.org.rw.
 rw.			1800	IN	NS	ns3.ricta.org.rw.
 rw.			1800	IN	NS	pch.ricta.org.rw.
@@ -237,6 +237,8 @@ aegis.rw.		1800	IN	NS	savanna.ns.cloudflare.com.
 aegistrust.rw.		1800	IN	NS	ns1.rdb.rw.
 aegistrust.rw.		1800	IN	NS	ns2.aos.rw.
 aegistrust.rw.		1800	IN	NS	ns3.aos.rw.
+aemugrober.rw.		1800	IN	NS	ns1.kitech.rw.
+aemugrober.rw.		1800	IN	NS	ns2.kitech.rw.
 aeroservices.rw.	1800	IN	NS	ns1.rdb.rw.
 aeroservices.rw.	1800	IN	NS	ns2.aos.rw.
 aeroservices.rw.	1800	IN	NS	ns3.aos.rw.
@@ -9819,6 +9821,8 @@ prostar.rw.		86400	IN	NS	ns4.markmonitor.com.
 prostar.rw.		86400	IN	NS	ns5.markmonitor.com.
 prostar.rw.		86400	IN	NS	ns6.markmonitor.com.
 prostar.rw.		86400	IN	NS	ns7.markmonitor.com.
+prostudycenter.rw.	86400	IN	NS	ns541.webhosting.co.rw.
+prostudycenter.rw.	86400	IN	NS	ns542.webhosting.co.rw.
 proteknon.rw.		86400	IN	NS	ns2.wixdns.net.
 proteknon.rw.		86400	IN	NS	ns3.wixdns.net.
 proudteacher.rw.	86400	IN	NS	ns1.kitech.rw.

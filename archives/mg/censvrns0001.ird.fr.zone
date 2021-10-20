@@ -1,10 +1,10 @@
-mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021102004 600 3600 604800 86400
+mg.			7200	IN	SOA	ns.nic.mg. ramboa.nic.mg. 2021102006 600 3600 604800 86400
 mg.			7200	IN	NS	ns.dts.mg.
 mg.			7200	IN	NS	ns.nic.mg.
 mg.			7200	IN	NS	censvrns0001.ird.fr.
 mg.			7200	IN	NS	ns-mg.malagasy.com.
 mg.			7200	IN	NS	pch.nic.mg.
-mg.			7200	IN	TXT	"Generation Time: 1634702442"
+mg.			7200	IN	TXT	"Generation Time: 1634709629"
 00.mg.			7200	IN	NS	gns1.cloudns.net.
 00.mg.			7200	IN	NS	gns2.cloudns.net.
 00.mg.			7200	IN	NS	gns3.cloudns.net.
@@ -3741,8 +3741,8 @@ feminasante.mg.		86400	IN	NS	ns.dts.mg.
 feminasante.mg.		86400	IN	NS	ns1.dts.mg.
 fenosoa.mg.		86400	IN	NS	greg.ns.cloudflare.com.
 fenosoa.mg.		86400	IN	NS	michelle.ns.cloudflare.com.
-feoko.mg.		86400	IN	NS	ns1.cloudns.io.
-feoko.mg.		86400	IN	NS	ns2.cloudns.io.
+feoko.mg.		86400	IN	NS	bowen.ns.cloudflare.com.
+feoko.mg.		86400	IN	NS	hattie.ns.cloudflare.com.
 ferapara.mg.		86400	IN	NS	ns1.hostpapa.com.
 ferapara.mg.		86400	IN	NS	ns2.hostpapa.com.
 fes.mg.			86400	IN	NS	ns1.da.cloudns.io.
@@ -6286,8 +6286,8 @@ madanet.mg.		86400	IN	NS	ns1.time4vps.com.
 madanet.mg.		86400	IN	NS	ns2.time4vps.com.
 madanetinfo.mg.		86400	IN	NS	ns1.madanetinfo.mg.
 madanetinfo.mg.		86400	IN	NS	ns2.madanetinfo.mg.
-ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns1.madanetinfo.mg.	86400	IN	AAAA	2a02:c207:2040:4829::1
+ns1.madanetinfo.mg.	86400	IN	A	144.91.112.39
 ns2.madanetinfo.mg.	86400	IN	A	109.205.176.153
 madannonces.mg.		86400	IN	NS	dns200.anycast.me.
 madannonces.mg.		86400	IN	NS	ns200.anycast.me.
@@ -10093,6 +10093,8 @@ tongasoa-guesthouse.mg.	86400	IN	NS	ns1.onyx.cloudns.io.
 tongasoa-guesthouse.mg.	86400	IN	NS	ns2.onyx.cloudns.io.
 tongavatours.mg.	86400	IN	NS	ns1.cloudns.io.
 tongavatours.mg.	86400	IN	NS	ns2.cloudns.io.
+tontolosykajy.mg.	86400	IN	NS	ns1.cloudns.io.
+tontolosykajy.mg.	86400	IN	NS	ns2.cloudns.io.
 too.mg.			86400	IN	NS	ns1.onyx.cloudns.io.
 too.mg.			86400	IN	NS	ns2.onyx.cloudns.io.
 topdata.mg.		86400	IN	NS	ns1.ntmada-webhosting.com.
